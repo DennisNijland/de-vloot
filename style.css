@@ -1,0 +1,82 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	background-image: url(grfx/grfx/bg.png);
+	background-repeat: repeat-x;
+}
+
+div.header{
+	background-image: url(grfx/grfx/header.jpg);
+	margin-right: auto;
+	margin-left: auto;
+	width:800px;
+	height:269px;
+	text-align: left;
+}
+
+div.inhoud{
+	width: 760px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	text-align: justify;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+ul.top-menu li{
+	display: inline;
+	text-align: middle;
+	margin-right: 60px;
+}
+
+ul.top-menu{
+	margin-top: 145px;
+	margin-right: 90px;
+	color:white;
+	padding: 5px;
+	padding-top: 20px;
+}
+
+img.top-left{
+	float:left;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+img.middle{
+	float:right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+img.bottom-left{
+	float:left;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+
+}
+
+img.bottom-right{
+	float:right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+
+}
+
+img.top-right{
+	float:right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
